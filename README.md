@@ -8,7 +8,7 @@ val ilgonmic = developer {
         company = JetBrains
         role = Software_Engineer
     }
-    tech("Kotlin", "JavaScript", "TypeScript", "React")
+    tech("Kotlin", "JavaScript", "Wasm", "Gradle")
     links {
         twitter = "@ilia_goncharov"
     }
